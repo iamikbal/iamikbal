@@ -65,3 +65,7 @@ I am an **IIT Kanpur Graduate**. My academic focus lies in Statistics and Data S
 | • Multivariate Analysis  | • Probability Distributions |
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamikbal&show_icons=true&theme=minimal" alt="Stats" />
+</p>
