@@ -1,6 +1,6 @@
 # Hi there, I'm Ahammed Ikbal 👋
 
-I am a **IIT Kanpur Graduate**. My academic focus lies in Statistics and Data Science, bridging the gap between statistical theory and computational implementation.
+I am an **IIT Kanpur Graduate**. My academic focus lies in Statistics and Data Science, bridging the gap between statistical theory and computational implementation.
 
 - 🔭 **I’m currently working on:** Advancing my knowledge in Statistical Inference and Machine Learning.
 - 🎓 **Education:** M.Sc. Statistics from Indian Institute of Technology, Kanpur & B.Sc. Statistics (Hons) from Ramakrishna Mission Residential College (Autonomous), Narendrapur.
