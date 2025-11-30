@@ -4,7 +4,7 @@ I am a **IIT Kanpur Graduate**. My academic focus lies in Statistics and Data Sc
 
 - 🔭 **I’m currently working on:** Advancing my knowledge in Statistical Inference and Machine Learning.
 - 🎓 **Education:** M.Sc. Statistics from Indian Institute of Technology, Kanpur & B.Sc. Statistics (Hons) from Ramakrishna Mission Residential College (Autonomous), Narendrapur.
-- 🌍 **Website:** [iamikbal.com](https://iamikbal.com) [7]
+- 🌍 **Website:** [iamikbal.com](https://iamikbal.com)
 - 📫 **Reach me at:** ikbal@iamikbal.com
 
 ---
@@ -35,23 +35,23 @@ I am a **IIT Kanpur Graduate**. My academic focus lies in Statistics and Data Sc
 
 ### 🎵 Relationship between Song Features and Popularity
 *An investigation using Spotify API data to identify key popularity factors.*
-- **Tech:** JavaScript, Excel, PCA, Logistic Regression, Cluster Analysis [13, 16, 17].
-- **Methodology:** Mined data from Spotify API, performed cluster analysis (dendrograms/linkage), reduced features using PCA, and applied logistic regression [16, 17, 18, 19].
+- **Tech:** JavaScript, Excel, PCA, Logistic Regression, Cluster Analysis.
+- **Methodology:** Mined data from Spotify API, performed cluster analysis (dendrograms/linkage), reduced features using PCA, and applied logistic regression.
 
 ### ✋ Hand Sign to English Letter Detection
 *A Deep Learning model to interpret hand signs.*
-- **Tech:** TensorFlow, Python [20, 23].
-- **Methodology:** Trained a Sequential model with Dense layers, ReLu activation, and Adam Optimizer on a Kaggle dataset [21, 23]. Optimized via hyperparameter tuning [24].
+- **Tech:** TensorFlow, Python.
+- **Methodology:** Trained a Sequential model with Dense layers, ReLu activation, and Adam Optimizer on a Kaggle dataset  Optimized via hyperparameter tuning.
 
 ### 🍾 Time Series Analysis: Champagne Sales
 *Forecasting future sales trends.*
-- **Tech:** R/Python (Time Series Libraries) [26].
-- **Methodology:** Conducted descriptive analysis and tested ARIMA, SARIMA, and MA models to identify the best fit for forecasting [26, 27, 28].
+- **Tech:** R/Python (Time Series Libraries).
+- **Methodology:** Conducted descriptive analysis and tested ARIMA, SARIMA, and MA models to identify the best fit for forecasting.
 
 ### 💻 Personal Portfolio (iamikbal.com)
 *A production-ready web app hosted on serverless architecture.*
-- **Tech:** Next.js, React.js, TailwindCSS [29, 31].
-- **Goal:** To establish a web presence and demonstrate full-stack development capability [30].
+- **Tech:** Next.js, React.js, TailwindCSS.
+- **Goal:** To establish a web presence and demonstrate full-stack development capability.
 
 ---
 
@@ -59,10 +59,10 @@ I am a **IIT Kanpur Graduate**. My academic focus lies in Statistics and Data Sc
 
 | Statistics | Data Science & Math |
 | :--- | :--- |
-| • Linear & Logistic Regression [42] | • Machine Learning [42] |
-| • Time Series Analysis [42] | • Statistical Data Analysis using R [42] |
-| • Statistical Inference [42] | • Linear & Matrix Algebra [42] |
-| • Multivariate Analysis [42] | • Probability Distributions [42] |
+| • Linear & Logistic Regression  | • Machine Learning  |
+| • Time Series Analysis  | • Statistical Data Analysis using R  |
+| • Statistical Inference  | • Linear & Matrix Algebra |
+| • Multivariate Analysis  | • Probability Distributions |
 
 ---
 
